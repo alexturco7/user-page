@@ -43,10 +43,16 @@ public class HelloWorld {
 
 <img src="yoda.jpeg" alt="Image Description" width="100">
 
-## Relative Links
+## External Links
 - [LinkedIn](https://www.linkedin.com/in/alex-turco)
 
 ## Task List
 - [x] Create About Me page
 - [ ] Add more content
 - [ ] Excel in CSE 110
+
+## Section Links
+- [My Journey](#my-journey)
+- [Favorite Programming Languages](#favorite-programming-languages)
+
+[Click here to view the image](path/to/image.png)
