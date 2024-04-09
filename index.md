@@ -6,26 +6,26 @@
 
 <img src="Warren_logo.png" alt="Image Description" width="100">
 
-## My Journey
+## My Journey {#my-journey}
 - I started my journey into the world of programming in High School.
 - I took AP CS A and AP CS P.
 - I then decided to continue this journey by majoring in CS in college.
 
-## What I Love
+## What I Love {#what-i-love}
 - I'm fascinated by the endless possibilities that software development offers.
 - Solving problems and creating solutions proves to be fun.
 - I'm also eager to learn more about what makes Software Engineering different from what I've been learning about.
 
-## My Passions
+## My Passions {#my-passions}
 - Apart from coding, I have interests in [running](#), [soccer](#), and [beach days](#).
 - I need to get back to running, however, I do intramural soccer.
 - Spring quarter I am also planning on getting back to the beach more.
 
-## Favorite Programming Languages
+## Favorite Programming Languages {#favorite-programming-languages}
 1. **Java**: My first learned language, and frequently used in my start, thanks to good old AP CS and CSE 11/12.
 2. **Python**: Love its simplicity and versatility.
 
-## Least Favorite Programming Languages
+## Least Favorite Programming Languages {#least-favorite-programming-languages}
 1. **C**: Ew pointers.
 
 ## Code Snippet
@@ -53,6 +53,9 @@ public class HelloWorld {
 
 ## Section Links
 - [My Journey](#my-journey)
+- [What I Love](#what-i-love)
+- [My Passions](#my-passions)
 - [Favorite Programming Languages](#favorite-programming-languages)
+- [Least Favorite Programming Languages](#least-favorite-programming-languages)
 
 [Click here to view image](theend.jpeg)
