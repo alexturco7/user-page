@@ -4,6 +4,8 @@
 - Hi there! I'm Alex, a second year Computer Science major in Warren.
 - I believe that technology will drive positive change and solve real-world problems now and in our future.
 
+<img src="Warren_logo.png" alt="Image Description" width="100">
+
 ## My Journey
 - I started my journey into the world of programming in High School.
 - I took AP CS A and AP CS P.
@@ -39,8 +41,10 @@ public class HelloWorld {
 ## Inspirational Quote
 > "The greatest teacher, failure is." - Yoda
 
+<img src="yoda.jpeg" alt="Image Description" width="100">
+
 ## Relative Links
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- [LinkedIn](https://www.linkedin.com/in/alex-turco)
 
 ## Task List
 - [x] Create About Me page
