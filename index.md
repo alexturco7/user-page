@@ -55,4 +55,4 @@ public class HelloWorld {
 - [My Journey](#my-journey)
 - [Favorite Programming Languages](#favorite-programming-languages)
 
-[Click here to view the image](path/to/image.png)
+[Click here to view image](theend.jpeg)
